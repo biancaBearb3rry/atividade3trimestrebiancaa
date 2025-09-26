@@ -1,7 +1,9 @@
 body {
-    color: pink;
-    background: brown;
+    color:blueviolet;
+    background:brown;
     margin: 0px;
+    font-family: "Birthstone Bounce", cursive;
+
 }
 
 header {
@@ -22,3 +24,4 @@ section {
 .chamada-texto {
     margin-right: 5% ;
 } 
+
